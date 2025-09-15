@@ -22,7 +22,7 @@ I'm a Computer Science undergraduate at Central South University, deeply passion
 📫 **How to reach me:**
 
 * **Email:** `oceanzen9@gmail.com`
-* **LinkedIn:** `[[这里替换成您的领英主页链接]](https://www.linkedin.com/in/%E6%B5%B7%E6%B4%8B-%E6%9B%BE-a32115360/)`
+* **LinkedIn:** `https://www.linkedin.com/in/%E6%B5%B7%E6%B4%8B-%E6%9B%BE-a32115360/`
 
 ---
 
