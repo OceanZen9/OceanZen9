@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there, I'm ocean 👋
 
-<!--
-**OceanZen9/OceanZen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at Central South University, deeply passionate about Front-end Development and creating intuitive user experiences. I enjoy turning complex problems into beautiful and functional web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻 My Tech Stack:**
+
+* **Front-end:** `JavaScript (ES6+)`, `TypeScript`, `Vue.js`, `Pinia`, `HTML5`, `CSS3`, `Ant Design Vue`
+* **Tools & Platforms:** `Git`, `Webpack`, `Linux/macOS Shell`
+* **Backend (Familiar):** `Node.js`
+
+---
+
+🌱 **I’m currently:**
+
+* Improving my user center project, focusing on performance optimization.
+* Deepening my understanding of full-stack architecture.
+
+---
+
+📫 **How to reach me:**
+
+* **Email:** `oceanzen9@gmail.com`
+* **LinkedIn:** `[[这里替换成您的领英主页链接]](https://www.linkedin.com/in/%E6%B5%B7%E6%B4%8B-%E6%9B%BE-a32115360/)`
+
+---
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
