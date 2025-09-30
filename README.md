@@ -6,7 +6,7 @@ I'm a Computer Science undergraduate at Central South University, deeply passion
 
 **💻 My Tech Stack:**
 
-* **Front-end:** `JavaScript (ES6+)`, `TypeScript`, `Vue.js`, `Pinia`, `HTML5`, `CSS3`, `Ant Design Vue`
+* **Front-end:** `JavaScript (ES6+)`, `TypeScript`, `Vue.js`, `Pinia`, `HTML5`, `CSS3`, `Ant Design Vue`,`React`,`Shadcn/ui`
 * **Tools & Platforms:** `Git`, `Webpack`, `Linux/macOS Shell`
 * **Backend (Familiar):** `Node.js`
 
